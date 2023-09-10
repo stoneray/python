@@ -40,8 +40,6 @@ print("0") if 0 <= score < 60 else print("不合法")
 text = "0" if 0 <= score < 60 else "不合法"
 print(text)
 
-
-
 # 2. 循环：可以让程序根据条件不断做一件事
 # while 循环
 # 语法结构 while condition: statements else statements

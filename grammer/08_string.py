@@ -1,4 +1,5 @@
 # 字符串
+
 # 1. 字符串基本用法
 print('I love Python')  # 使用单引号
 print("I love Python")  # 使用双引号

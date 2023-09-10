@@ -1,4 +1,5 @@
-# 1. 布尔类型
+# 布尔类型
+
 # bool值为False的情况：
 # ① 定义为False的对象：None和False
 # ② 值为0的数字类型：0、0.0、0j、Decimal(0)、Fraction(0,1)
